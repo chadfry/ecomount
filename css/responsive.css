@@ -2121,7 +2121,7 @@
 	}
 
 	.emphasis-title h1,
-	.emphasis-title h2 { font-size: 40px !important; }
+	.emphasis-title h2 { font-size: 20px !important; }
 
 	.error404,
 	.error404-wrap .error404 { font-size: 120px; }
