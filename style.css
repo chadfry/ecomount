@@ -7211,7 +7211,7 @@ body:not(.device-touch) .button.button-full strong {
 
 .feature-box h3 {
 	font-size: 16px;
-	font-weight: 700;
+	font-weight: 200;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	margin-bottom: 0;
