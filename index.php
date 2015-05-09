@@ -1,0 +1,1 @@
+<?php include_once("ecomount/one-page/home.html"); ?>
