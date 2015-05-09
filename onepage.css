@@ -620,7 +620,7 @@ textarea.border-form-control {
 
 @media (max-width: 991px) {
 
-	#logo, #logo img { height: 110px !important; }
+	#logo, #logo img { height: 60px !important; }
 
 	#header { min-height: 70px; }
 
