@@ -2004,7 +2004,7 @@
 
 	.container,
 	#header.full-header .container,
-	.container-fullwidth { width: 300px !important; }
+	.container-fullwidth { width: 280px !important; }
 
 	.container.vertical-middle { width: 100% !important; }
 
