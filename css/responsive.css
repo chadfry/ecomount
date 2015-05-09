@@ -2145,6 +2145,8 @@
 	.button.button-desc span { font-size: 11px; }
 	h3.featureHeading {text-align: center;}
 
+
+	#slider .container {height: 500px !important;}
 }
 
 
