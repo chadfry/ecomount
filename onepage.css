@@ -641,7 +641,7 @@ textarea.border-form-control {
 		top: 0;
 		margin-bottom: 0;
 	}
-
+	#slider.container {height: 500px;}
 	#primary-menu-trigger { top: 10px !important; }
 
 	#side-panel-trigger {
