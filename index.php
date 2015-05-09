@@ -1,1 +1,1 @@
-<?php include_once("ecomount/one-page/home.html"); ?>
+<?php include_once("home.html"); ?>
