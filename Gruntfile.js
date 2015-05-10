@@ -7,7 +7,7 @@ module.exports = function(grunt) {
           separator: ';',
         },
         dist: {
-          src: ['css/bootstrap.css','style.css','onepage.css','css/dark.css','css/font-icons.css','css/et-line.css','css/animate.css','css/magnific-popup.css','css/fonts.css','css/responsive.css'],
+          src: ['css/bootstrap.css','style.css','onepage.css','css/dark.css','css/et-line.css','css/animate.css','css/magnific-popup.css','css/fonts.css','css/responsive.css'],
           dest: 'dist/css/built.css',
         },
       },
