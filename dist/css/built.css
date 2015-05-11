@@ -8494,7 +8494,7 @@ body.side-push-panel.side-panel-open:not(.device-xxs):not(.device-xs):not(.devic
 	top: 0;
 	left: 0;
 	z-index: 5;
-	background: transparent url('images/grid.png') repeat;
+	/*background: transparent url('images/grid.png') repeat;*/
 	-webkit-backface-visibility: hidden;
 }
 
