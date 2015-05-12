@@ -18152,7 +18152,7 @@ body.side-push-panel.side-panel-open.stretched #header .container { right: 300px
 
 #preorderButton {
 	float: right;
-	margin: 51px 10%;
+	margin: 24px 0;
 }
 
 
@@ -24946,7 +24946,7 @@ label {
 		display: block;
 		height: 70px;
 		float: none;
-		margin: 0 auto 0 !important;
+		margin: 0 auto 0 80px !important;
 		max-width: none;
 		text-align: center;
 		border: 0 !important;
@@ -24968,6 +24968,7 @@ label {
 		margin-top: 0;
 		left: 0;
 		z-index: 1;
+		margin-left: 0px;
 	}
 
 	#primary-menu .container #primary-menu-trigger {
@@ -26475,6 +26476,7 @@ label {
 	  font-size: 16px;
 	  width: 216px;
 	}
+	#logo { margin: 0 auto 0 0px !important;}
 }
 
 
