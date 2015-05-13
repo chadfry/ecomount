@@ -286,6 +286,7 @@ html[xmlns] .slider-wrap {display: block;}
 #slider .container {
 	position: relative;
 	height: 100%;
+	
 }
 
 #slider.canvas-slider .swiper-slide img { width: 100%; }
